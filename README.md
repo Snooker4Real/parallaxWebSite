@@ -1,4 +1,6 @@
-# parallaxWebSite
+# ParallaxWebSite
+
+## The Falling Cat
 
 ```bash
 cd parallaxWebSite
